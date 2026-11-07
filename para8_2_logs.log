@@ -1,0 +1,5 @@
+We have logging message: 2026-11-07 17:01:18,089:DEBUG - debug
+We have logging message: 2026-11-07 17:01:18,089:INFO - info
+We have logging message: 2026-11-07 17:01:18,089:WARNING - warning
+We have logging message: 2026-11-07 17:01:18,089:ERROR - error
+We have logging message: 2026-11-07 17:01:18,089:CRITICAL - critical
